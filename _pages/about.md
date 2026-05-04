@@ -33,8 +33,8 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 
 \* Co-first author. To be submitted to CIKM 2026.
 
-[**arXiv**](#)  
-[**Github**](#)
+[**📓 arXiv**](#)  
+[**💻 Github**](#)
 
 </div>
 </div>
@@ -48,8 +48,8 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 
 Second author. To be submitted to CIKM 2026.
 
-[**arXiv**](#)  
-[**Github**](#)
+[**📓 arXiv**](#)  
+[**💻 Github**](#)
 
 </div>
 </div>
