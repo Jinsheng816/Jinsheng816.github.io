@@ -77,6 +77,6 @@ Second author. To be submitted to CIKM 2026.
 - *2025.05*: Second Prize, Anhui Collegiate Computer Design Competition.
 - *2025.01*: Provincial First Prize, National English Translation Competition.
 
-# 🏅 Activities
+# 🏀 Activities
 
 - *2023.11*: Champion, “Information Cup” Sports League, Department of Computer and Information, Hefei University of Technology.
