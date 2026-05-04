@@ -12,9 +12,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi! My name is **Jinsheng Guo**. I am a third-year undergraduate student majoring in **Information Security** at **Hefei University of Technology**, Hefei, China.
-
-My research interests include **graph learning**, **fraud detection**, **multimodal time series forecasting**, **software security**, and **information security**. I have worked on research projects involving LLM-enhanced graph fraud detection and multimodal time series forecasting.
+Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student majoring in **Information Security** at **Hefei University of Technology**.  My research interests include **Artificial Intelligence**, **graph learning**, and **multimodal learning**. ‼️ **I am actively seeking Master’s positions in CS/AI for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect**.
 
 <span class='anchor' id='publications'></span>
 
