@@ -18,6 +18,12 @@ My research interests include **graph learning**, **fraud detection**, **multimo
 
 <span class='anchor' id='publications'></span>
 
+# 📖 Educations
+
+- *2023.09 - 2027.06 (expected):* B.Eng. in **Information Security**, **Hefei University of Technology**, Hefei, China.
+
+<span class='anchor' id='honors'></span>
+
 # 📝 Preprints and Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dlgc-framework.png' alt="DLGC framework" width="100%"></div></div>
@@ -51,12 +57,6 @@ Second author. To be submitted to CIKM 2026.
 </div>
 
 <span class='anchor' id='educations'></span>
-
-# 📖 Educations
-
-- *2023.09 - 2027.06 (expected):* B.Eng. in **Information Security**, **Hefei University of Technology**, Hefei, China.
-
-<span class='anchor' id='honors'></span>
 
 # 🎖 Honors
 
