@@ -29,9 +29,9 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 
 **DLGC: Breaking the Camouflage Barrier in Graph Fraud Detection**
 
-**Jinsheng Guo\***, Zhenhao Weng\*, Yibo Liu, Yan Qiao\†, Meng Li
+**Jinsheng Guo<sup>*</sup>**, Zhenhao Weng<sup>*</sup>, Yibo Liu, Yan Qiao<sup>†</sup>, Meng Li
 
-\* Equal contribution. \† Corresponding author.
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
 [**📓 arXiv**](#)  
 [**💻 Github**](#)
@@ -44,7 +44,7 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 
 **Time-T2S: Multimodal Time Series Forecasting**
 
-Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao\†
+Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
 
 [**📓 arXiv**](#)  
 [**💻 Github**](#)
