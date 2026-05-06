@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinsheng Guo"
-repository               : "Kevin816-max/Kevin816-max.github.io"
+repository               : "Jinsheng816/Jinsheng816.github.io"
 description              : ""
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jinsheng Guo"
-  avatar           : "images/avatar.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "Hefei University of Technology"
   location         : "Hefei, China"
   employer         :
