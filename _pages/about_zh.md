@@ -1,5 +1,5 @@
 ---
-permalink: /zh/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
@@ -7,13 +7,13 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 关于我
+# 👋 About Me
 
 您好！👋 我是 **郭金胜**，目前就读于 **合肥工业大学信息安全专业**，本科三年级。我的研究兴趣包括 **人工智能**、**图学习** 和 **多模态学习**。‼️ **我正在积极申请 2027 年秋季入学的计算机科学 / 人工智能方向硕士项目。如果您对我的经历感兴趣，我非常期待与您交流。**
 
 <span class='anchor' id='educations'></span>
 
-# 📖 教育经历
+# 📖 Educations
 
 - *2023.09 - 2027.06（预计）:* 工学学士，**信息安全**，**合肥工业大学**，中国合肥。
 
@@ -51,7 +51,7 @@ Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
 
 <span class='anchor' id='honors'></span>
 
-# 🎖 荣誉
+# 🎖 Honors
 
 - *2025.12*: 合肥工业大学优秀学生二等奖学金。
 - *2025.12*: 合肥工业大学三好学生。
@@ -61,7 +61,7 @@ Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
 
 <span class='anchor' id='awards'></span>
 
-# 🏆 学科竞赛
+# 🏆 Awards
 
 - *2025.12*: 全国高校计算机能力挑战赛程序设计 Python 赛道华东赛区一等奖。
 - *2025.11*: 全国大学生信息安全竞赛安徽赛区作品赛二等奖。
@@ -72,6 +72,6 @@ Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
 
 <span class='anchor' id='activities'></span>
 
-# 🏀 活动经历
+# 🏀 Activities
 
 - *2023.11*: 合肥工业大学计算机与信息系“信息杯”体育联赛冠军。
