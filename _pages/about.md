@@ -3,6 +3,7 @@ permalink: /en/
 title: ""
 excerpt: ""
 author_profile: true
+lang: en
 ---
 
 <span class='anchor' id='about-me'></span>
