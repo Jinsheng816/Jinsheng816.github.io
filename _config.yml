@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Jinsheng Guo"
 repository               : "Jinsheng816/Jinsheng816.github.io"
+url                      : "https://jinsheng816.github.io"
+baseurl                  : ""
 description              : ""
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Kevin816-max"
+  github           : "Jinsheng816"
   google_plus      :
   keybase          :
   instagram        :
