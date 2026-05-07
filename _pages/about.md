@@ -11,13 +11,13 @@ author_profile: true
 
 Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student majoring in **Information Security** at **Hefei University of Technology**.  My research interests include **Artificial Intelligence**, **Graph Learning**, and **Multimodal Learning**. ‼️ **I am actively seeking Master’s positions in CS/AI for Fall 2027 entry. If you are interested in my experience, I would be very happy to connect**.
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='educations'></span>
 
 # 📖 Educations
 
 - *2023.09 - 2027.06 (expected):* B.Eng. in **Information Security**, **Hefei University of Technology**, Hefei, China.
 
-<span class='anchor' id='honors'></span>
+<span class='anchor' id='publications'></span>
 
 # 📝 Preprints and Publications
 
@@ -49,7 +49,7 @@ Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
 </div>
 </div>
 
-<span class='anchor' id='educations'></span>
+<span class='anchor' id='honors'></span>
 
 # 🎖 Honors
 
@@ -69,6 +69,8 @@ Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
 - *2025.05*: First Prize, RoboCup Rescue Simulation League, China Robot Competition and RoboCup China Open.
 - *2025.05*: Second Prize, Anhui Collegiate Computer Design Competition.
 - *2025.01*: Provincial First Prize, National English Translation Competition.
+
+<span class='anchor' id='activities'></span>
 
 # 🏀 Activities
 
