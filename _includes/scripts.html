@@ -1,4 +1,45 @@
-<script src="assets/js/main.min.js"></script>
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.addEventListener("click", function (event) {
+    const link = event.target.closest(".masthead a[href^='#']");
+    if (!link) return;
+
+    const hash = link.getAttribute("href");
+
+    if (hash === "#") {
+      event.preventDefault();
+      event.stopPropagation();
+
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+
+      history.replaceState(null, "", window.location.pathname + window.location.search);
+      return;
+    }
+
+    const target = document.querySelector(hash);
+    if (!target) return;
+
+    event.preventDefault();
+    event.stopPropagation();
+
+    const masthead = document.querySelector(".masthead");
+    const offset = masthead ? masthead.offsetHeight + 10 : 0;
+    const top = target.getBoundingClientRect().top + window.pageYOffset - offset;
+
+    window.scrollTo({
+      top: top,
+      behavior: "smooth"
+    });
+
+    history.replaceState(null, "", window.location.pathname + window.location.search);
+  }, true);
+});
+</script>
