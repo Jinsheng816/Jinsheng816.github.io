@@ -44,6 +44,8 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 
 Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
 
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
 [**📓 arXiv**](#)  
 [**💻 Github**](#)
 
