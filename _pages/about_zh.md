@@ -47,6 +47,8 @@ redirect_from:
 
 Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
 
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
 [**📓 arXiv**](#)  
 [**💻 Github**](#)
 
