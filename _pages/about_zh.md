@@ -25,7 +25,7 @@ redirect_from:
 
 # 📝 Preprints and Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/dlgc-framework.png' alt="DLGC framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/graph-framework.png' alt="LEIM framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **大语言模型增强意图建模的图欺诈检测框架**
@@ -40,7 +40,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/timet2s-framework.png' alt="Time-T2S framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/multimodal-framework.png' alt="Time-T2S framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **基于时间-文本-符号的多模态时间序列预测框架**
