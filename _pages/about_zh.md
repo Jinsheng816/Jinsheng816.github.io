@@ -28,9 +28,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/dlgc-framework.png' alt="DLGC framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DLGC: Breaking the Camouflage Barrier in Graph Fraud Detection**
+**大语言模型增强意图建模的图欺诈检测框架**
 
-**Jinsheng Guo<sup>*</sup>**, Zhenhao Weng<sup>*</sup>, Yibo Liu, Yan Qiao<sup>†</sup>, Meng Li
+**Jinsheng Guo<sup>*</sup>**, Zhenhao Weng<sup>*</sup>, Yibo Liu, Yan Qiao<sup>†</sup>, Meng Li<sup>†</sup>
 
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
@@ -43,9 +43,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/timet2s-framework.png' alt="Time-T2S framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Time-T2S: Multimodal Time Series Forecasting**
+**基于时间-文本-符号的多模态时间序列预测框架**
 
-Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>
+Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>, Meng Li<sup>†</sup>
 
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
