@@ -25,13 +25,13 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/dlgc-framework.png' alt="DLGC framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**大语言模型增强意图建模的图欺诈检测框架**
+**L2IR: Revealing Latent Intent in Graph Fraud Detection**
 
 **Jinsheng Guo<sup>*</sup>**, Zhenhao Weng<sup>*</sup>, Yibo Liu, Yan Qiao<sup>†</sup>, Meng Li<sup>†</sup>
 
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
-[**📓 arXiv**](#)  
+[**📓 arXiv**](https://arxiv.org/abs/2605.26040)
 
 
 </div>
@@ -40,13 +40,13 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/timet2s-framework.png' alt="Time-T2S framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**基于时间-文本-符号的多模态时间序列预测框架**
+**STaT: Resolving Shape Distortion in Non-Stationary Time Series via Tri-Modal Synergy**
 
 Hui Cheng, **Jinsheng Guo**, Zhenhao Weng, Yan Qiao<sup>†</sup>, Meng Li<sup>†</sup>
 
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
-[**📓 arXiv**](#)  
+[**📓 arXiv**](https://arxiv.org/abs/2605.25943)  
 
 
 </div>
