@@ -22,7 +22,7 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 
 # 📝 Preprints and Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/dlgc-framework.png' alt="DLGC framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/graph-framework.png' alt="LEIM framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **L2IR: Revealing Latent Intent in Graph Fraud Detection**
@@ -37,7 +37,7 @@ Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student ma
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/timet2s-framework.png' alt="Time-T2S framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/multimodal-framework.png' alt="Time-T2S framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **STaT: Resolving Shape Distortion in Non-Stationary Time Series via Tri-Modal Synergy**
