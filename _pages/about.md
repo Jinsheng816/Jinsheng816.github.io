@@ -10,7 +10,7 @@ lang: en
 
 # 👋 About Me
 
-Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student majoring in **Information Security** at **Hefei University of Technology**.  My research interests include **Large Language Models**, **Graph Learning**, **Natural Language Processing**, and **Multimodal Learning**. ‼️ **I am actively seeking Master’s or Ph.D. positions in CS/AI for Fall 2027 entry. If you are interested in my experience, I would be very happy to connect**.
+Hi! 👋 My name is **Jinsheng Guo**. I am a third-year undergraduate student majoring in **Information Security** at **Hefei University of Technology**.  My research interests include **Large Language Models**, **Graph Learning**, **Natural Language Processing**, and **Multimodal Learning**. ‼️ **I am actively seeking Ph.D / Master’s positions in CS/AI for Fall 2027 entry. If you are interested in my experience, I would be very happy to connect**.
 
 <span class='anchor' id='educations'></span>
 
